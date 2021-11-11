@@ -1,0 +1,8 @@
+def importa(ArchivoExp):
+    DataExp = pd.read_csv(ArchivoExp,sep=',',names=nombres2, infer_datetime_format=True,parse_dates=[0])
+    DataExp.set_index('tiempo',inplace=True)
+    DataExp['TCPan'] = (DataExp.TCPan1 + DataExp.TCPan2 + DataExp.TCPan3 + DataExp.TCPan4 + DataExp.TCPan5 + DataExp.A1 + DataExp.A2 + DataExp.A3 + DataExp.A4)/9
+    return DataExp
+nombres2 = ['tiempo' ,'SFlujo'   , 'TemPrtdIn', 'TemPrtdOut','TCPan1'  , 'TCPan2'   , 'TCPan3'      , 'TCPan4'  , 'TCPan5',
+           'TCCubo01', 'TCCubo02', 'TCCubo03' , 'TCCubo04'  ,'TCCubo05', 'TCCubo06' , 'TCCubo07'    , 'TCCubo08', 'TCCubo09', 'TCCubo010', 
+           'TCPiso'  , 'TCAire'  , 'A1' , 'A2', 'A3', 'A4'  ,'Flujo2'  , 'TemPrtdIn2', 'TemPrtdOut2','InterIn'  , 'InterOut' ]
