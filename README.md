@@ -21,3 +21,7 @@ geom'etricas v'alidas.
 
 
 ### Descripci'on del material
+
+001_planos/  Contiene un modelo en sketchup 2017 del cub'iculo, hay planos y fotos e incluso dibujos que pueden ser de ayuda para tomar decisiones en cuanto a ventanas y geometr'ia.
+
+002_datos/
