@@ -49,3 +49,19 @@ ruoa.txt : datos meteorol'ogicos para crear el EPW
 003_docs/
 
 Tesis relacionadas con validaciones de espacios, contienen m'etricas y metodolog'ias para validar simulaciones con EnergyPlus.
+
+
+## Presentaci'on
+
+La presentaci'on debe contener los siguientes elementos:
+
+1. Presentar el problema
+1. Simplificaciones, características y datos disponibles
+1. Calibración y validación (sin personas):
+    1. Definir los parámetros de la calibración y validación
+1. Simular temporada cálida  evaluando con PPD y PMV
+    1. Jorge trabajando
+    1. Jorge e invitado trabajando
+1. Bonus: Proponen y simulan estrategia bioclimática
+    1. Presentan mejora del PPD y PMV
+1. Conclusiones
