@@ -22,6 +22,23 @@ geom'etricas v'alidas.
 
 ### Descripci'on del material
 
-001_planos/  Contiene un modelo en sketchup 2017 del cub'iculo, hay planos y fotos e incluso dibujos que pueden ser de ayuda para tomar decisiones en cuanto a ventanas y geometr'ia.
+001_planos/  
+
+Contiene un modelo en sketchup 2017 del cub'iculo, hay planos y fotos e incluso dibujos que pueden ser de ayuda para tomar decisiones en cuanto a ventanas y geometr'ia.
+
 
 002_datos/
+
+esolmet.csv : Datos meteorol'ogicos para crear el EPW
+
+fracciones.png : Fracciones radiantes y convectivas para algunos equipos.
+
+inventario_equipo.xlsx : Lista de equipo existente en el cub'iculo de Jorge.
+
+mediciones.csv : Datos medidos para validar
+
+nombres.txt : lista de nombres contenidos en mediciones.csv
+
+nombres.xls : lista de nombres contenidos en mediciones.csv
+
+ruoa.txt : datos meteorol'ogicos para crear el EPW
