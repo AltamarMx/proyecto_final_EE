@@ -24,6 +24,8 @@ geom'etricas v'alidas.
 
 001_planos/  
 
+D-7.skp : Sketch de la oficina de Jorge para comenzar.
+
 Contiene un modelo en sketchup 2017 del cub'iculo, hay planos y fotos e incluso dibujos que pueden ser de ayuda para tomar decisiones en cuanto a ventanas y geometr'ia.
 
 
@@ -42,3 +44,8 @@ nombres.txt : lista de nombres contenidos en mediciones.csv
 nombres.xls : lista de nombres contenidos en mediciones.csv
 
 ruoa.txt : datos meteorol'ogicos para crear el EPW
+
+
+003_docs/
+
+Tesis relacionadas con validaciones de espacios, contienen m'etricas y metodolog'ias para validar simulaciones con EnergyPlus.
