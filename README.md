@@ -62,13 +62,20 @@ La presentaci'on debe contener los siguientes elementos:
 1. Simular temporada cálida  evaluando con PPD y PMV
     1. Jorge trabajando
     1. Jorge e invitado trabajando
+1. Conclusiones
 1. Bonus: Proponen y simulan estrategia bioclimática
     1. Presentan mejora del PPD y PMV
-1. Conclusiones
-
 
 ## Evaluaci'on del proyecto:
 
-| Criterio |  Puntos |
-| ---------|---------|
-|          |         |
+| Criterio                       |     Puntos |
+| ----------------------         |---------   |
+| Presentaci'on                  |     50     |
+| Simplificaciones en geometr'ia |     10     |
+| Condiciones de frontera        |     20     |
+| Ajuste del modelo AFN          |     30     |
+| Uso de m'etricas para calibrar |     30     |
+| Validaci'on del modelo         |     20     |
+| Total                          |     160    |
+| Bonus Estrategia               |     30     |
+| Bonus Repositorio              |     10     |
