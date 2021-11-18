@@ -79,3 +79,11 @@ La presentaci'on debe contener los siguientes elementos:
 | Total                          |     160    |
 | Bonus Estrategia               |     20     |
 | Bonus Repositorio              |     10     |
+
+
+
+## Entregables
+
+1. Presentación
+1. IDF
+1. EPW
