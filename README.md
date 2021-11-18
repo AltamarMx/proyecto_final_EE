@@ -77,5 +77,5 @@ La presentaci'on debe contener los siguientes elementos:
 | Uso de m'etricas para calibrar |     30     |
 | Validaci'on del modelo         |     20     |
 | Total                          |     160    |
-| Bonus Estrategia               |     30     |
+| Bonus Estrategia               |     20     |
 | Bonus Repositorio              |     10     |
