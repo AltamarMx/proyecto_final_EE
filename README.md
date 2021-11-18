@@ -65,3 +65,10 @@ La presentaci'on debe contener los siguientes elementos:
 1. Bonus: Proponen y simulan estrategia bioclimática
     1. Presentan mejora del PPD y PMV
 1. Conclusiones
+
+
+## Evaluaci'on del proyecto:
+
+| Criterio |  Puntos |
+| ---------|---------|
+|          |         |
