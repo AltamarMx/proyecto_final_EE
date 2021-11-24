@@ -76,7 +76,7 @@ La presentaci'on debe contener los siguientes elementos:
 | Ajuste del modelo AFN          |     30     |
 | Uso de m'etricas para calibrar |     30     |
 | Validaci'on del modelo         |     20     |
-| Total                          |     160    |
+| Total                          |     150    |
 | Bonus Estrategia               |     20     |
 | Bonus Repositorio              |     10     |
 
